@@ -4,20 +4,20 @@ import { fileURLToPath } from 'url'
 
 //Number of owners
 global.owner = [
-  ['96894116692', 'Dev >> dark man', true],
-  ['96894116692', 'Dev >> dark man', true] // هنا قم بتبديل رقمك واسمك
+  ['972568155701', '𝑰𝒕𝒔 𝑨𝒉𝒎𝒂𝒅', true],
+  ['972568155701', '𝑰𝒕𝒔 𝑨𝒉𝒎𝒂𝒅', true] // هنا قم بتبديل رقمك واسمك
 ] 
 
 // Mods
-global.mods = ['212646155773','96894116692'] 
-global.prems = ['212646155773','96894116692']
+global.mods = ['201144148194','201144148194'] 
+global.prems = ['201144148194','201144148194']
 
 // Sticker WM
-global.ownername = 'Dev >> dark man'
-global.botname = 'DARCO-BOT-V2'
+global.ownername = '𝑰𝒕𝒔 𝑨𝒉𝒎𝒂𝒅'
+global.botname = '𝐋𝐚𝐧𝐠𝐚 𝐛𝐨𝐭 🌀🤍'
 global.premium = 'false'
-global.packname = 'DARCO-BOT-V2' 
-global.author = 'Dev >> dark man' 
+global.packname = '𝐋𝐚𝐧𝐠𝐚 𝐛𝐨𝐭 🌀🤍' 
+global.author = '𝑰𝒕𝒔 𝑨𝒉𝒎𝒂𝒅' 
 global.darco_wa = 'https://chat.whatsapp.com/Har7Z8RPqDO0jZP2FeRApN'
 
 
@@ -32,7 +32,7 @@ global.APIKeys = {
 global.wait = '*⌛ _جاري التنفيذ..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '😊'
-global.done = '🍁'
+global.done = '📃'
 global.error = '❌' 
 global.xmoji = '☘️' 
 
